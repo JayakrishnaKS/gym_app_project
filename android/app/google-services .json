@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630772895305",
+    "project_id": "gym-app-f5d38",
+    "storage_bucket": "gym-app-f5d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630772895305:android:575e11bc9c6e851309f998",
+        "android_client_info": {
+          "package_name": "com.jayakrishna.gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa0pH-hQ0dSbc8s7vay2rQvkRi-WyUbjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
